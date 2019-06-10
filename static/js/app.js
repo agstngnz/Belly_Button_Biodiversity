@@ -55,7 +55,7 @@ async function buildCharts(sample) {
 
     const layout = {
       margin:{
-        l: 0,
+        l: 40,
         t: 0
       },
       xaxis: {
